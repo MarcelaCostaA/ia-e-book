@@ -1,4 +1,4 @@
-```markdown
+
 # O Relógio de Areia
 
 ## 📒 Descrição
@@ -7,7 +7,7 @@ Um pequeno conto baseado em contos de Machado de Assis como "O Enfermeiro" e "A 
 ## 🤖 Tecnologias Utilizadas
 [DeepSeek](https://www.deepseek.com/): ferramenta utilizada para desenvolvimento do texto;
 [NightCafe](https://creator.nightcafe.studio/studio): Ferramenta utilizada para geração de imagens;
-[Descript](https://www.descript.com/): ferramenta utilizada para edição do conto no formato de leitura 
+[LibreOffice](https://pt-br.libreoffice.org/baixe-ja/libreoffice-novo/): ferramenta utilizada para edição do conto no formato de leitura 
 
 
 ## 🧐 Processo de Criação
