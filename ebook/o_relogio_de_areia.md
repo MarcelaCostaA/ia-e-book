@@ -1,12 +1,13 @@
-![capa](imagens/capa.png)  
+![capa](/imagens/capa.png)  
 
 ## DEDICATÓRIA    
-  
+
+
+
     
       
         
-  
-  
+ 
 
 >Para minha mãe, que sempre me motivou a continuar aprendendo.    
   
@@ -63,11 +64,14 @@ No dia seguinte, Marina não apareceu no trabalho. Ninguém sabia para onde ela 
 
 Anos depois, alguns funcionários juram ter visto Marina no arquivo, sempre às 8h17, observando um relógio de areia que nunca para. Outros dizem que é apenas uma lenda, uma história inventada para assustar os novos. Mas ninguém se atreve a ficar no arquivo depois do expediente. Afinal, quem pode dizer se o tempo realmente passa da mesma forma para todos?  
 
-### OBRIGADA POR CHEGAR ATÉ AQUI!  
+### OBRIGADA POR CHEGAR ATÉ AQUI!    
   
-   
-[Linkedin](http://www.linkedin.com/in/marcela--costa)  
-Behance      
+Veja alguns de meus trabalhos:  
+[Linkedin](http://www.linkedin.com/in/marcela--costa)    
+[Behance](https://www.behance.net/marcelaamorim)  
+[GitHub](https://github.com/MarcelaCostaA)  
+[Site](https://marcelacostaa.github.io/portfolio/)  
+[CodePen](https://codepen.io/Marcela-Costa)       
 
 
 **Marcela Costa**  
@@ -81,7 +85,7 @@ Behance
 >
 >Santo Agostinho
 
-![imagem](imagens/o_relogio_de_areia_2.jpg)  
+![imagem](/imagens/o_relogio_de_areia_2.jpg)  
 
 
 

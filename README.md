@@ -23,10 +23,10 @@ Um pequeno conto baseado em Machado de Assis e Edgar Allan Poe.
 [Canva](https://canva.com): ferramenta utilizada para edição e inclusão de elementos decorativos do conto no formato de leitura e produção do mockup para o Markdown do README;  
 
 
-[Libre Office](https://pt-br.libreoffice.org/): para edição do formato doc;  
+VSCode: para edição do formato markdown;  
 
 
-[ZAMZAR](https://www.zamzar.com/convert/txt-to-epub/): para a conversão do formato doc para ePub.  
+[ZAMZAR](https://www.zamzar.com/convert/txt-to-epub/): para a conversão do formato markdown para ePub (ainda em desenvolvimento).  
 
 
 
@@ -55,7 +55,7 @@ O resultado pode ser visualido aqui:
 
 [O Relógio de Areia](ebook/o_relogio_de_areia.pdf) na versão em PDF, que carrega os elementos decorativos;
 
-[O Relógio de Areia - EPub]() para a versão EPub.
+[O Relógio de Areia - EPub]() para a versão EPub - ainda em desenvolvimento.
 
 
 
